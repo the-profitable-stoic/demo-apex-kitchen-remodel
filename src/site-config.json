@@ -1,0 +1,556 @@
+{
+  "business": {
+    "name": "Apex Kitchen Remodel",
+    "phone": "555-kit-r92",
+    "category": "kitchen-remodel",
+    "city": "Chicago",
+    "state": "IL"
+  },
+  "design": {
+    "preset": {
+      "id": "kitchen-remodel-red-charge",
+      "categoryGroup": "kitchen-remodel",
+      "name": "Red Charge",
+      "recipeFile": "kitchen-remodel/red-charge.astro",
+      "colors": {
+        "primary": "#7C3AED",
+        "primaryDark": "#4C1D95",
+        "primaryLight": "#decefb",
+        "secondary": "#7034d5",
+        "accent": "#A78BFA",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#7C3AED",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "kitchen-remodel/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Chicago's Trusted Kitchen Remodel Experts",
+      "heroSubline": "Transforming Cook County homes since 2012. We specialize in bringing modern functionality to Chicago's historic bungalows and mid-century ranches.",
+      "aboutTitle": "Crafting Chicago's Dream Kitchens",
+      "aboutText": [
+        "Founded during the recession by two Chicago carpenters, Apex Kitchen Remodel grew from fixing leaky bungalow kitchens to full-scale renovations. Today, we preserve the character of Chicago's historic homes while integrating smart storage solutions for modern living.",
+        "Our approach combines old-world craftsmanship with precision laser measurements. We account for Chicago's extreme temperature swings in every design - ensuring your new cabinetry won't warp when the polar vortex hits.",
+        "When we're not installing heated tile floors in Rogers Park or rebuilding vintage pantries in Oak Park, we're coaching youth hockey at McFetridge Sports Center."
+      ],
+      "valueProps": [
+        {
+          "title": "Chicago-Proof Materials",
+          "description": "We use thermally stable materials that withstand lake-effect humidity and subzero winters"
+        },
+        {
+          "title": "Historic Home Specialists",
+          "description": "Skilled at preserving original charm while adding modern conveniences in pre-war homes"
+        },
+        {
+          "title": "Permit Navigators",
+          "description": "Handle all Chicago building department requirements from start to finish"
+        },
+        {
+          "title": "Neighborhood Experts",
+          "description": "Knowledge of local architectural styles from Logan Square bungalows to Gold Coast high-rises"
+        }
+      ],
+      "ctaHeadline": "Let's Build Your Chicago-Smart Kitchen",
+      "ctaSubline": "Schedule your free design consultation with our local remodeling team today."
+    },
+    "services": [
+      {
+        "slug": "bungalow-kitchen-remodel",
+        "name": "Bungalow Kitchen Remodel",
+        "shortDescription": "Preserving Chicago's historic charm while adding modern functionality.",
+        "description": "Chicago's iconic brick bungalows deserve kitchens that honor their craftsmanship while meeting today's needs. We specialize in sensitive updates for these 1920s gems - relocating bulky radiators to create work triangles, rebuilding original cabinetry with hidden organizers, and installing period-appropriate subway tile that withstands our freeze-thaw cycles.\n\nEvery project begins with documenting original details like built-in hutches or leaded glass cabinets. We then design around your home's unique quirks - maybe converting that awkward back porch into a breakfast nook, or adding a discreet coffee station where the icebox once stood.\n\nOur Chicago-specific touches include vapor barriers behind walls to prevent condensation damage, and quarter-sawn oak thresholds that accommodate decades of foundation settling.",
+        "process": [
+          "Step 1: Historic assessment and measurement of existing space",
+          "Step 2: Design presentation with 3D renderings showing preservation elements",
+          "Step 3: Careful demolition protecting original architectural features",
+          "Step 4: Installation with materials matched to your home's era"
+        ],
+        "benefits": [
+          "Maintains historic home value",
+          "Custom storage for awkward spaces",
+          "Materials tested for Chicago climates",
+          "City permit paperwork handled"
+        ],
+        "faq": [
+          {
+            "question": "How do you handle knob-and-tube wiring in old kitchens?",
+            "answer": "We partner with licensed electricians to safely replace outdated wiring while preserving original plaster walls. All work meets Chicago's strict historic district codes."
+          },
+          {
+            "question": "Can you match my original cabinet doors?",
+            "answer": "Yes - we take door samples to our Humboldt Park woodshop to recreate profiles using the same old-growth lumber species."
+          },
+          {
+            "question": "What flooring works best with radiant heat?",
+            "answer": "For bungalows, we recommend encaustic cement tiles or engineered hardwood - both stable enough for Chicago's temperature swings when paired with our subfloor systems."
+          }
+        ]
+      },
+      {
+        "slug": "mid-century-kitchen-update",
+        "name": "Mid-Century Kitchen Update",
+        "shortDescription": "Bringing 1950s-70s ranch kitchens into the 21st century.",
+        "description": "The sprawling galley kitchens of Chicago's postwar suburbs need smart updates for today's lifestyles. We reimagine these spaces by removing soffits to gain precious inches, replacing Formica with quartz that mimics period-appropriate patterns, and integrating appliances into sleek new cabinetry that nods to the home's atomic-age roots.\n\nFor Arlington Heights ranches and Schaumburg split-levels, we often convert unused formal dining areas into pantry extensions. Our specialty is designing hidden charging stations and appliance garages that maintain clean lines while adding functionality.\n\nWe address common mid-century issues like inadequate lighting by installing LED strips under cabinets (disguised as period-accurate aluminum trim) and upgrading those single-bulb ceiling fixtures to stylish pendant clusters.\n\nEvery project includes structural reinforcement for sagging floors - a common issue in these quickly-built suburban homes after decades of Chicago winters.",
+        "process": [
+          "Step 1: Structural assessment of load-bearing walls and flooring",
+          "Step 2: Design consultation focusing on period-appropriate modernizations",
+          "Step 3: Soffit removal and space reconfiguration",
+          "Step 4: Installation of climate-adapted materials"
+        ],
+        "benefits": [
+          "Respects original architectural intent",
+          "Adds storage without expanding footprint",
+          "Improves energy efficiency",
+          "Addresses common structural issues"
+        ],
+        "faq": [
+          {
+            "question": "How do you modernize without losing the retro feel?",
+            "answer": "We source reproduction pulls from the era and use color palettes true to the period - think harvest gold or avocado green as accent colors rather than overwhelming themes."
+          },
+          {
+            "question": "Can you work around my asbestos floor tiles?",
+            "answer": "Absolutely. Our certified team safely encapsulates or removes hazardous materials before beginning renovations, following all EPA guidelines."
+          },
+          {
+            "question": "What's your solution for tiny postwar sinks?",
+            "answer": "We often salvage original steel sink bases and pair them with modern undermount stainless bowls - giving you more workspace while keeping the vintage aesthetic."
+          }
+        ]
+      },
+      {
+        "slug": "luxury-condo-kitchens",
+        "name": "Luxury Condo Kitchens",
+        "shortDescription": "High-end renovations for Chicago's downtown high-rises.",
+        "description": "Gold Coast and Streeterville condos demand kitchen designs as sophisticated as their skyline views. We specialize in high-rise renovations that navigate strict building boards and elevator logistics, transforming cookie-cutter spaces into chef-worthy showpieces.\n\nOur premium packages include installing appliance garages that disappear into waterfall islands, integrating smart home technology without visible wiring, and creating custom ventilation solutions for high-floor units where traditional ducting isn't possible.\n\nWe work exclusively with local artisans - your marble countertops come from the same Bridgeport fabricator serving Chicago's Michelin-starred restaurants, while your glass backsplash is hand-cut in a Pilsen studio.\n\nEvery project includes detailed noise-reduction planning - sound-dampening underlayments prevent clattering pans from disturbing downstairs neighbors, and cabinet soft-close mechanisms meet even the most stringent condo association requirements.",
+        "process": [
+          "Step 1: Building board approval coordination",
+          "Step 2: Precision laser measurements accounting for floor deflection",
+          "Step 3: Off-site fabrication to minimize onsite work time",
+          "Step 4: After-hours installation with building-approved freight elevators"
+        ],
+        "benefits": [
+          "Navigates strict condo regulations",
+          "Premium local materials",
+          "Noise-conscious designs",
+          "Minimized disruption"
+        ],
+        "faq": [
+          {
+            "question": "How do you handle deliveries in high-rises?",
+            "answer": "We schedule all material deliveries through building-approved freight elevators during designated hours, with protective floor coverings from lobby to unit."
+          },
+          {
+            "question": "Can you match my building's existing millwork?",
+            "answer": "Our Lincoln Park woodshop can recreate any profile - we'll obtain a sample of your building's original specs for perfect matching."
+          },
+          {
+            "question": "What's your solution for small condo kitchens?",
+            "answer": "We maximize every inch with appliance garages, counter-depth refrigeration, and multi-functional islands on locking casters for flexible layouts."
+          }
+        ]
+      },
+      {
+        "slug": "accessible-kitchen-design",
+        "name": "Accessible Kitchen Design",
+        "shortDescription": "Creating functional kitchens for all ages and abilities.",
+        "description": "Chicago's aging housing stock often isn't designed for accessibility. We retrofit kitchens throughout Cook County with universal design principles - from grab-ready cabinet pulls in Lincoln Park two-flats to wheelchair-friendly galley layouts in Beverly ranches.\n\nOur designs feature adjustable countertops on screw jacks (hidden behind period-appropriate trim), touch-activated faucets that work with arthritic hands, and smart storage that brings items within easy reach. For historic homes, we disguise accessibility features - a vintage-looking pie safe might conceal a slide-out step stool, or a depression-era bread box could hide medication organizers.\n\nWe pay special attention to lighting design, installing color-corrected LEDs under cabinets and inside drawers to help those with fading vision. All our accessible remodels include non-slip flooring options tested on Chicago's icy winters - like textured porcelain that mimics the look of vintage encaustic tiles.",
+        "process": [
+          "Step 1: Needs assessment with occupational therapist input",
+          "Step 2: Preservation-conscious accessibility planning",
+          "Step 3: Custom fabrication of adaptive elements",
+          "Step 4: Installation with future adjustability in mind"
+        ],
+        "benefits": [
+          "Aging-in-place ready",
+          "Discreet adaptive features",
+          "Future-proof designs",
+          "Safety-focused materials"
+        ],
+        "faq": [
+          {
+            "question": "Can you make my vintage kitchen accessible without looking institutional?",
+            "answer": "Absolutely - we use Chicago-area craftsmen to create adaptive features that blend seamlessly with historic details, like carved wooden grab bars that match existing trim."
+          },
+          {
+            "question": "What's the best flooring for wheelchair users in our climate?",
+            "answer": "We recommend European-style textured porcelain tiles - they provide traction when wet, won't crack in freeze-thaw cycles, and come in patterns matching Chicago's historic homes."
+          },
+          {
+            "question": "How do you lower counters without compromising storage?",
+            "answer": "Our patented under-counter lift systems maintain full-depth storage while allowing height adjustment - great for multi-generational households."
+          }
+        ]
+      },
+      {
+        "slug": "small-kitchen-solutions",
+        "name": "Small Kitchen Solutions",
+        "shortDescription": "Maximizing every inch in Chicago's compact kitchens.",
+        "description": "From Wicker Park studios to Lakeview two-flats, we excel at creating functional kitchens in tight spaces. Our designers employ custom solutions like appliance garages that tuck into chimney breasts, fold-down prep tables mounted on original brick walls, and slim-profile refrigeration disguised as cabinetry.\n\nFor Chicago's famous greystone buildings, we often convert awkward niches into coffee stations or baking centers. Walk-up apartments gain valuable storage through ceiling-height pull-down shelves and toe-kick drawers. We even design custom inserts for those peculiar triangular cabinets that plague vintage Chicago kitchens.\n\nEvery small kitchen remodel includes our patent-pending \"Chicago corners\" - specialized lazy susans that navigate the 135-degree angles common in old apartment layouts. We also install space-saving venting solutions, like downdraft ranges that preserve precious upper cabinet space in pre-war buildings.",
+        "process": [
+          "Step 1: 3D laser scan of existing space",
+          "Step 2: Custom storage solution design",
+          "Step 3: Precision fabrication of space-saving elements",
+          "Step 4: Installation focusing on vertical storage"
+        ],
+        "benefits": [
+          "Doubles usable workspace",
+          "Preserves architectural character",
+          "Custom storage for odd angles",
+          "Space-appropriate appliances"
+        ],
+        "faq": [
+          {
+            "question": "How do you add counter space without expanding?",
+            "answer": "We install custom flip-up extensions on existing counters, butcher block covers for sinks, and narrow pull-out work surfaces between appliances."
+          },
+          {
+            "question": "Can you make my tiny kitchen feel bigger?",
+            "answer": "Yes - strategically placed mirrors, glass-front upper cabinets, and continuous flooring materials create visual expansion. We also use lighting tricks to brighten dark Chicago kitchens."
+          },
+          {
+            "question": "What's your solution for no pantry space?",
+            "answer": "We convert nearby closets into climate-controlled pantries with sliding shelves, or build floor-to-ceiling pantry cabinets as slim as 12 inches deep."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Marta K.",
+        "rating": 5,
+        "service": "Bungalow Kitchen Remodel",
+        "text": "Apex transformed our 1916 bungalow kitchen without losing an inch of charm. They replicated our original cabinet doors exactly (right down to the wormholes!) while adding secret spice racks and a fridge that disappears behind period-appropriate panels. The heated tile floor has been a game-changer for our Chicago winters.",
+        "date": "2025-01-15"
+      },
+      {
+        "name": "James R.",
+        "rating": 5,
+        "service": "Mid-Century Kitchen Update",
+        "text": "Our 1962 Arlington Heights ranch kitchen went from dated to phenomenal. They removed the oppressive soffits, restored the original terrazzo floors we didn't know were under layers of linoleum, and designed a stunning atomic-age inspired backsplash. The new layout actually gives us more storage despite removing a wall.",
+        "date": "2024-11-03"
+      },
+      {
+        "name": "Leila S.",
+        "rating": 5,
+        "service": "Luxury Condo Kitchens",
+        "text": "Working within our high-rise's strict rules seemed impossible until Apex got involved. They fabricated everything off-site and installed it overnight to avoid building complaints. The custom walnut cabinetry hides every modern appliance imaginable, and the silent-close drawers don't disturb our downstairs neighbors.",
+        "date": "2024-09-22"
+      },
+      {
+        "name": "Carlos D.",
+        "rating": 5,
+        "service": "Accessible Kitchen Design",
+        "text": "After my stroke, our old Logan Square kitchen became unusable. Apex created beautiful adaptations - countertops that lower at the touch of a button, cabinets with automatic lights inside, and a stove I can actually reach from my wheelchair. Everything looks perfectly normal when guests come over.",
+        "date": "2024-08-17"
+      },
+      {
+        "name": "Yusef A.",
+        "rating": 5,
+        "service": "Small Kitchen Solutions",
+        "text": "Our Wicker Park studio kitchen went from non-functional to chef-worthy. They built a pull-out pantry in what was dead space next to the radiator, installed a counter that folds over the sink, and found an 18-inch dishwasher that fits perfectly. Now we can actually cook without tripping over each other.",
+        "date": "2024-07-05"
+      },
+      {
+        "name": "Noemi P.",
+        "rating": 5,
+        "service": "Bungalow Kitchen Remodel",
+        "text": "The team preserved all the original 1923 features of our Pilsen bungalow while adding modern conveniences. They converted the old icebox alcove into a coffee station, built a baking center where the pantry used to be, and even matched the historic Chicago common brick when relocating a doorway.",
+        "date": "2024-06-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Chicago Kitchen Remodeling Contractors | Apex Kitchen Remodel",
+        "description": "Specializing in historic Chicago homes and modern condos. Local experts crafting kitchens that withstand lake-effect weather while preserving architectural integrity."
+      },
+      "about": {
+        "title": "About Our Chicago Kitchen Remodeling Company",
+        "description": "Locally-owned kitchen remodelers serving Cook County since 2012. Learn how we blend Chicago's architectural heritage with modern functionality."
+      },
+      "services": {
+        "title": "Chicago Kitchen Remodeling Services | Apex Kitchen Remodel",
+        "description": "From bungalow updates to condo luxury kitchens, we provide Chicago-specific remodeling solutions designed for our climate and housing stock."
+      },
+      "contact": {
+        "title": "Contact Chicago's Kitchen Remodeling Specialists",
+        "description": "Ready to transform your Chicago kitchen? Schedule your free consultation with our local design team today."
+      },
+      "reviews": {
+        "title": "Chicago Kitchen Remodeling Reviews | Apex Kitchen Remodel",
+        "description": "See what Chicago homeowners say about our kitchen remodeling services in historic homes and modern spaces."
+      },
+      "service-areas": {
+        "title": "Chicago Suburb Kitchen Remodeling Service Areas",
+        "description": "Serving Cook County communities including Naperville, Evanston, Schaumburg and more with climate-conscious kitchen remodels."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    },
+    "serviceAreas": [
+      {
+        "city": "Naperville",
+        "slug": "naperville-il",
+        "state": "IL",
+        "content": "Apex Kitchen Remodel specializes in transforming kitchens in Naperville's upscale family homes, many built between the 1970s and 2000s. Our expertise includes modernizing outdated layouts, installing energy-efficient appliances, and creating custom cabinetry to withstand the harsh cold winters with heavy snow and ice. We understand the unique needs of Naperville homeowners, ensuring your kitchen remodel enhances both functionality and resale value.\n\nFrom sleek contemporary designs to timeless traditional styles, we tailor our services to match Naperville's sophisticated aesthetic. Our team is familiar with local building codes and weather-resistant materials, ensuring your new kitchen is as durable as it is beautiful. Let us help you create the perfect gathering space for your family in this vibrant community.",
+        "localContext": "Naperville features upscale family homes primarily from the 1970s-2000s, requiring kitchen remodels that balance modern functionality with enduring style.",
+        "nearbyAreas": [
+          "Aurora",
+          "Bolingbrook",
+          "Wheaton"
+        ]
+      },
+      {
+        "city": "Aurora",
+        "slug": "aurora-il",
+        "state": "IL",
+        "content": "Serving Aurora's diverse housing stock from the 1960s through 2000s, Apex Kitchen Remodel brings fresh perspectives to every project. We specialize in adapting older kitchens to contemporary lifestyles while preserving their original charm. Our solutions account for Aurora's harsh winter climate, incorporating durable materials and proper insulation to keep your kitchen comfortable year-round.\n\nWhether you're in a mid-century ranch or a newer subdivision home, we create kitchens that reflect Aurora's eclectic character. From space-saving solutions for smaller homes to luxury upgrades for larger properties, our designs always prioritize functionality and flow. We're proud to help Aurora residents love their kitchens again.",
+        "localContext": "Aurora's housing ranges from 1960s-2000s developments, presenting unique remodeling challenges and opportunities in each neighborhood.",
+        "nearbyAreas": [
+          "Naperville",
+          "Montgomery",
+          "North Aurora"
+        ]
+      },
+      {
+        "city": "Schaumburg",
+        "slug": "schaumburg-il",
+        "state": "IL",
+        "content": "Apex Kitchen Remodel excels at updating Schaumburg's 1970s-80s suburban kitchens to meet today's standards. We understand how these original layouts often lack modern conveniences and storage solutions. Our designs incorporate smart space utilization while respecting the architectural integrity of Schaumburg's classic suburban homes.\n\nConsidering Schaumburg's harsh winters, we recommend materials that withstand temperature fluctuations and moisture. From cabinet refacing to complete gut renovations, we help Schaumburg homeowners create kitchens that are both stylish and practical for family life. Our local expertise ensures your remodel will stand the test of time in this established community.",
+        "localContext": "Schaumburg's 1970s-80s suburban developments often feature kitchens needing functional updates while maintaining their original character.",
+        "nearbyAreas": [
+          "Hoffman Estates",
+          "Hanover Park",
+          "Roselle"
+        ]
+      },
+      {
+        "city": "Evanston",
+        "slug": "evanston-il",
+        "state": "IL",
+        "content": "Specializing in Evanston's historic homes near Northwestern University, Apex Kitchen Remodel blends modern functionality with period-appropriate aesthetics. We're experts at preserving the charm of 1890s-1930s architecture while introducing contemporary amenities. Our team understands the unique structural considerations of older homes and the importance of maintaining their historical integrity.\n\nFor Evanston's harsh winters, we recommend insulation upgrades and durable materials that complement your home's original features. Whether you need a subtle refresh or a complete transformation, we create kitchens that honor Evanston's rich architectural heritage while meeting your family's needs.",
+        "localContext": "Evanston's historic homes near Northwestern University require kitchen remodels that respect their architectural significance.",
+        "nearbyAreas": [
+          "Skokie",
+          "Wilmette",
+          "Rogers Park"
+        ]
+      },
+      {
+        "city": "Arlington Heights",
+        "slug": "arlington-heights-il",
+        "state": "IL",
+        "content": "Apex Kitchen Remodel transforms Arlington Heights' 1950s-70s ranch homes with kitchen designs that maximize space and functionality. We specialize in opening up closed-off layouts common in these established neighborhoods while maintaining their cozy appeal. Our solutions account for the area's harsh winters, recommending materials that withstand cold temperatures and heavy snow.\n\nFrom galley kitchen expansions to creating modern open-concept spaces, we help Arlington Heights homeowners reimagine their living areas. Our designs respect the neighborhood's character while introducing contemporary conveniences that make daily life easier and more enjoyable.",
+        "localContext": "Arlington Heights features established ranch homes from the 1950s-70s that often need kitchen layouts modernized for today's lifestyles.",
+        "nearbyAreas": [
+          "Palatine",
+          "Mount Prospect",
+          "Buffalo Grove"
+        ]
+      },
+      {
+        "city": "Oak Park",
+        "slug": "oak-park-il",
+        "state": "IL",
+        "content": "Apex Kitchen Remodel brings specialized expertise to Oak Park's historic homes, particularly its famous Frank Lloyd Wright-influenced properties. We approach each project with sensitivity to architectural heritage while incorporating modern functionality. Our designs for Oak Park account for the area's harsh winters, ensuring your new kitchen remains comfortable and efficient throughout the season.\n\nFrom carefully preserving original woodwork to designing custom cabinetry that complements historic details, we help Oak Park homeowners honor their home's legacy while enjoying contemporary conveniences. Our local knowledge ensures your remodel meets both preservation guidelines and your personal needs.",
+        "localContext": "Oak Park's historic homes, including many Frank Lloyd Wright designs, require kitchen remodels that balance preservation with modernization.",
+        "nearbyAreas": [
+          "River Forest",
+          "Forest Park",
+          "Berwyn"
+        ]
+      },
+      {
+        "city": "Wheaton",
+        "slug": "wheaton-il",
+        "state": "IL",
+        "content": "Serving Wheaton's mix of historic and newer homes, Apex Kitchen Remodel creates spaces that reflect the community's traditional values with modern functionality. We specialize in updating kitchens in Wheaton's older properties while respecting their architectural character. Our designs account for the area's harsh winters, recommending durable materials and proper insulation.\n\nFrom preserving original hardwood floors to creating butler's pantries that nod to Wheaton's history, we help homeowners achieve timeless designs. Whether you're in a Victorian-era home or a mid-century ranch, we'll create a kitchen that serves your family beautifully for years to come.",
+        "localContext": "Wheaton's blend of historic and newer homes requires kitchen remodels that honor tradition while incorporating modern conveniences.",
+        "nearbyAreas": [
+          "Glen Ellyn",
+          "Carol Stream",
+          "Winfield"
+        ]
+      },
+      {
+        "city": "Libertyville",
+        "slug": "libertyville-il",
+        "state": "IL",
+        "content": "Apex Kitchen Remodel transforms Libertyville's charming homes with kitchen designs that blend small-town character with contemporary living. We specialize in updating older kitchens common in Libertyville's historic districts while maintaining their unique appeal. Our solutions account for the area's harsh winters, ensuring your new kitchen remains functional and beautiful through every season.\n\nFrom creating cozy breakfast nooks to designing spacious islands for family gatherings, we help Libertyville homeowners make the most of their kitchens. Our local expertise means we understand how to work with Libertyville's diverse architectural styles while meeting today's lifestyle needs.",
+        "localContext": "Libertyville's charming homes, many in historic districts, benefit from kitchen remodels that preserve character while improving functionality.",
+        "nearbyAreas": [
+          "Vernon Hills",
+          "Mundelein",
+          "Gurnee"
+        ]
+      },
+      {
+        "city": "Glenview",
+        "slug": "glenview-il",
+        "state": "IL",
+        "content": "Apex Kitchen Remodel serves Glenview's diverse housing stock, from historic homes to modern estates, with customized kitchen solutions. We specialize in creating luxurious yet practical spaces that suit Glenview's upscale neighborhoods. Our designs account for the area's harsh winters, incorporating durable materials and energy-efficient features.\n\nFrom professional-grade appliances to custom storage solutions, we help Glenview homeowners create kitchens that are both beautiful and highly functional. Whether you're in The Glen's newer developments or older established neighborhoods, we'll design a kitchen that exceeds your expectations and stands up to Illinois' challenging climate.",
+        "localContext": "Glenview's mix of historic homes and modern developments requires kitchen remodels that meet high standards for both aesthetics and performance.",
+        "nearbyAreas": [
+          "Northbrook",
+          "Niles",
+          "Morton Grove"
+        ]
+      },
+      {
+        "city": "Hinsdale",
+        "slug": "hinsdale-il",
+        "state": "IL",
+        "content": "Apex Kitchen Remodel brings luxury craftsmanship to Hinsdale's prestigious homes, creating kitchens worthy of their elegant architecture. We specialize in high-end materials and custom details that reflect Hinsdale's sophisticated aesthetic. Our designs account for the area's harsh winters, ensuring your investment remains beautiful and functional through seasonal extremes.\n\nFrom butler's pantries to chef's kitchens, we help Hinsdale homeowners realize their dream spaces. Our team understands the importance of seamless integration with your home's existing architecture while introducing modern conveniences. Let us create a kitchen that becomes the heart of your Hinsdale home.",
+        "localContext": "Hinsdale's prestigious homes demand kitchen remodels that meet the highest standards of luxury and craftsmanship.",
+        "nearbyAreas": [
+          "Clarendon Hills",
+          "Burr Ridge",
+          "Western Springs"
+        ]
+      },
+      {
+        "city": "Lake Forest",
+        "slug": "lake-forest-il",
+        "state": "IL",
+        "content": "Apex Kitchen Remodel serves Lake Forest's magnificent estates with kitchen designs that match their grandeur and sophistication. We specialize in creating timeless spaces that honor Lake Forest's architectural heritage while incorporating state-of-the-art functionality. Our designs account for the lakeside climate's harsh winters, recommending materials that withstand moisture and temperature fluctuations.\n\nFrom preserving historic details to designing expansive culinary spaces, we help Lake Forest homeowners achieve kitchens worthy of their exceptional properties. Our local expertise ensures your remodel respects community standards while exceeding your personal expectations.",
+        "localContext": "Lake Forest's magnificent estates require kitchen remodels that balance historic preservation with luxurious modern living.",
+        "nearbyAreas": [
+          "Lake Bluff",
+          "Highland Park",
+          "Deerfield"
+        ]
+      },
+      {
+        "city": "Barrington",
+        "slug": "barrington-il",
+        "state": "IL",
+        "content": "Apex Kitchen Remodel transforms Barrington's elegant homes with kitchen designs that blend rustic charm and modern luxury. We specialize in creating spaces that reflect Barrington's equestrian and natural surroundings while providing top-tier functionality. Our designs account for the area's harsh winters, incorporating durable materials and efficient heating solutions.\n\nFrom farmhouse sinks to custom wood cabinetry, we help Barrington homeowners achieve their ideal kitchen aesthetic. Whether you're in the village proper or the surrounding countryside, we'll design a kitchen that complements your lifestyle and stands up to Illinois' challenging seasons.",
+        "localContext": "Barrington's elegant homes, many with equestrian or rural influences, benefit from kitchen remodels that blend rustic charm with modern conveniences.",
+        "nearbyAreas": [
+          "South Barrington",
+          "Lake Zurich",
+          "Inverness"
+        ]
+      }
+    ]
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "accessible-kitchen-design": "/images/service-accessible-kitchen-design.webp",
+      "bungalow-kitchen-remodel": "/images/service-bungalow-kitchen-remodel.webp",
+      "mid-century-kitchen-update": "/images/service-mid-century-kitchen-update.webp",
+      "luxury-condo-kitchens": "/images/service-luxury-condo-kitchens.webp",
+      "small-kitchen-solutions": "/images/service-small-kitchen-solutions.webp"
+    },
+    "servicesResponsive": {
+      "accessible-kitchen-design": {
+        "src": "/images/service-accessible-kitchen-design.webp",
+        "srcset": "/images/service-accessible-kitchen-design-400w.webp 400w, /images/service-accessible-kitchen-design-800w.webp 800w, /images/service-accessible-kitchen-design-1200w.webp 1200w, /images/service-accessible-kitchen-design.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bungalow-kitchen-remodel": {
+        "src": "/images/service-bungalow-kitchen-remodel.webp",
+        "srcset": "/images/service-bungalow-kitchen-remodel-400w.webp 400w, /images/service-bungalow-kitchen-remodel-800w.webp 800w, /images/service-bungalow-kitchen-remodel-1200w.webp 1200w, /images/service-bungalow-kitchen-remodel.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "mid-century-kitchen-update": {
+        "src": "/images/service-mid-century-kitchen-update.webp",
+        "srcset": "/images/service-mid-century-kitchen-update-400w.webp 400w, /images/service-mid-century-kitchen-update-800w.webp 800w, /images/service-mid-century-kitchen-update-1200w.webp 1200w, /images/service-mid-century-kitchen-update.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "luxury-condo-kitchens": {
+        "src": "/images/service-luxury-condo-kitchens.webp",
+        "srcset": "/images/service-luxury-condo-kitchens-400w.webp 400w, /images/service-luxury-condo-kitchens-800w.webp 800w, /images/service-luxury-condo-kitchens-1200w.webp 1200w, /images/service-luxury-condo-kitchens.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "small-kitchen-solutions": {
+        "src": "/images/service-small-kitchen-solutions.webp",
+        "srcset": "/images/service-small-kitchen-solutions-400w.webp 400w, /images/service-small-kitchen-solutions-800w.webp 800w, /images/service-small-kitchen-solutions-1200w.webp 1200w, /images/service-small-kitchen-solutions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
